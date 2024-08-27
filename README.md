@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a dedicated Data Analyst with a strong background in computer science and data engineering. I hold a Master’s degree in Computer Science from Auburn University at Montgomery and a Bachelor’s degree in Technology from Jawaharlal Nehru Technological University. With hands-on experience in data analysis, statistical modeling, and machine learning, I am passionate about leveraging data to drive strategic decision-making and operational efficiency.
+I am a Data Analyst with a solid background in computer science and data engineering. I hold a Master’s degree in Computer Science from Auburn University at Montgomery and a Bachelor’s degree in Technology from Jawaharlal Nehru Technological University. I am passionate about leveraging data to drive business insights and improve decision-making processes.
 
 ## Skills
 
@@ -16,25 +16,31 @@ I am a dedicated Data Analyst with a strong background in computer science and d
 **Wipro Technologies** | Hyderabad, India  
 *September 2020 – June 2022*
 
-- Applied advanced statistical techniques and machine learning algorithms using Python/R to analyze large datasets, uncovering key insights for strategic decisions.
-- Developed statistical models improving predictive accuracy for financial risk assessment by 15%.
-- Implemented machine learning algorithms with Python and Scikit-learn, enhancing model performance and data-driven decision-making.
-- Designed and optimized complex SQL queries, reducing processing time by 30%.
-- Created automated reporting solutions with Python and SAS Visual Analytics, increasing reporting efficiency.
-- Managed large-scale datasets using Python, Hadoop, and Spark, improving data handling and scalability.
+- Analyzed large datasets using statistical techniques and machine learning algorithms.
+- Developed and implemented statistical models for financial risk assessment.
+- Created and optimized SQL queries for data extraction and analysis.
+- Designed automated reporting solutions to streamline reporting processes.
+- Managed and processed large-scale datasets using big data technologies.
 
 ### Data Analyst Intern
 **Innogeecks Technologies** | Vijayawada, India  
 *May 2019 – December 2019*
 
-- Utilized Python libraries for data manipulation and statistical analysis.
-- Architected dynamic dashboards in Power BI, reducing customer complaint resolution time.
-- Assisted with data entry and validation, decreasing data errors by 15%.
-
+- Assisted with data manipulation and analysis using Python libraries.
+- Created dashboards in Power BI to support decision-making processes.
+- Supported data entry and validation tasks to ensure data accuracy.
 
 ## Certifications
 
 - **Microsoft Azure Fundamentals, AZ-900** - Microsoft
 - **Data Lake Fundamentals** - Databricks
-- **Python for Data Science** - IBM (Pandas, Numpy, Matplotlib, Seaborn)
+- **Python for Data Science** - IBM
 - **SQL 5-Star** - HackerRank
+
+## Connect with Me
+
+- [LinkedIn](#)
+- [Email](mailto:your-email@example.com)
+
+Thank you for visiting my profile! Feel free to explore my projects and reach out if you'd like to discuss data analytics, machine learning, or collaboration opportunities.
+
