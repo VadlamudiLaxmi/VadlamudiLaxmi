@@ -39,8 +39,6 @@ I am a Data Analyst with a solid background in computer science and data enginee
 
 ## Connect with Me
 
-- [LinkedIn](#)
-- [Email](mailto:your-email@example.com)
-
-Thank you for visiting my profile! Feel free to explore my projects and reach out if you'd like to discuss data analytics, machine learning, or collaboration opportunities.
+- [[LinkedIn](https://www.linkedin.com/in/lakshmi-vadlamudi/)](#)
+- [Email](mailto:vadlamudilaxmi66@gmail.com)
 
